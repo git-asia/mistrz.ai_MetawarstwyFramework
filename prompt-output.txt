@@ -1,0 +1,16 @@
+Opis taska dla zespołu technicznego:
+
+Opis dla projekt managera:
+Zadaniem projekt managera jest zapewnienie, że nowa sekcja "home" zostanie dodana do sklepu internetowego. Sekcja powinna zawierać promocję "2+1 gratis" na wybrane produkty. Projekt manager powinien skoordynować pracę zespołu technicznego, ustalić priorytety i terminy realizacji, a także monitorować postęp prac.
+
+Opis dla programisty:
+Programista jest odpowiedzialny za implementację nowej sekcji "home". Powinien stworzyć odpowiednią strukturę HTML, CSS i JavaScript, aby wyświetlać promocję "2+1 gratis" na stronie głównej. Programista powinien również zadbać o odpowiednie połączenie z bazą danych, aby wybierać produkty objęte promocją oraz zapewnić ich poprawne wyświetlanie na stronie.
+
+Opis dla projektanta:
+Projektant powinien zaprojektować wygląd nowej sekcji "home" z uwzględnieniem promocji "2+1 gratis". Powinien stworzyć atrakcyjny i czytelny layout, który przyciągnie uwagę klientów i zachęci ich do skorzystania z promocji. Projektant powinien również dostarczyć programiście odpowiednie zasoby graficzne, takie jak obrazy produktów i grafiki promocyjne.
+
+Opis dla testera:
+Tester jest odpowiedzialny za sprawdzenie poprawności działania nowej sekcji "home" z promocją "2+1 gratis". Powinien przetestować funkcjonalność promocji, sprawdzić czy wybrane produkty są poprawnie wyświetlane i czy są one dodawane do koszyka zgodnie z promocją. Tester powinien również przetestować responsywność i kompatybilność sekcji z różnymi przeglądarkami i urządzeniami.
+
+Opis dla wszystkich członków zespołu:
+Zespół techniczny powinien współpracować i komunikować się ze sobą, aby zapewnić poprawne wykonanie taska. Wszyscy członkowie zespołu powinni mieć świadomość celu projektu, czyli dodania nowej sekcji "home" z promocją "2+1 gratis". Powinni również współpracować i udzielać sobie wzajemnej pomocy w razie potrzeby, aby zapewnić jak najlepsze rezultaty.

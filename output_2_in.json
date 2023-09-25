@@ -1,0 +1,45 @@
+{
+    "Klient": {
+      "Opis": "Klient chciałby dodać nową sekcję 'hero' na stronie sklepu internetowego. W tej sekcji powinna być prezentowana oferta '2+1 gratis', czyli klient za zakup dwóch produktów otrzyma trzeci produkt za darmo.",
+      "Pytania": [
+        "Czy oferta '2+1 gratis' będzie dotyczyć wszystkich produktów w sklepie czy tylko określonych kategorii?",
+        "Czy klient ma mieć możliwość wyboru trzeciego produktu do darmowej promocji czy będzie to automatycznie dodawany najtańszy produkt?",
+        "Czy oferta '2+1 gratis' będzie dotyczyć tylko produktów o tej samej cenie, czy mogą być to produkty o różnych cenach?"
+      ]
+    },
+    "PM": {
+      "Opis": "Jako PM, muszę upewnić się, że rozumiem wymagania klienta dotyczące nowej sekcji 'hero' na stronie sklepu. Sekcja powinna promować ofertę '2+1 gratis', gdzie klient otrzyma trzeci produkt za darmo po zakupie dwóch produktów.",
+      "Pytania": [
+        "Czy sekcja 'hero' ma być widoczna na stronie głównej czy na innych podstronach sklepu?",
+        "Jaka ma być lokalizacja sekcji 'hero' na stronie?",
+        "Czy klient ma mieć możliwość wyboru produktów objętych ofertą '2+1 gratis' czy ma to być automatyczne dodanie trzeciego produktu najtańszego?",
+        "Czy oferta '2+1 gratis' ma mieć określony czas trwania czy ma być stała?"
+      ]
+    },
+    "Designer": {
+      "Opis": "Jako designer, muszę zrozumieć jak klient wyobraża sobie nową sekcję 'hero' na stronie sklepu internetowego, promującą ofertę '2+1 gratis'.",
+      "Pytania": [
+        "Czy klient ma jakieś preferencje dotyczące wyglądu sekcji 'hero'?",
+        "Czy mam uwzględnić jakieś konkretne kolory, czcionki czy grafiki?",
+        "Czy klient posiada logo, które powinno być wykorzystane w sekcji 'hero'?",
+        "Czy sekcja 'hero' ma być responsywna i dostosowywać się do różnych rozmiarów ekranów?"
+      ]
+    },
+    "Programista": {
+      "Opis": "Jako programista, chciałbym uzyskać więcej informacji na temat technicznych aspektów nowej sekcji 'hero' na stronie sklepu internetowego, promującej ofertę '2+1 gratis'.",
+      "Pytania": [
+        "Czy klient ma preferencje dotyczące technologii, które powinny być użyte do implementacji sekcji 'hero'?",
+        "Czy sekcja 'hero' powinna być dynamiczna, czyli zmieniać się na podstawie dostępnych produktów w sklepie?",
+        "Czy potrzebna jest integracja z systemem zamówień, aby uwzględnić promocję '2+1 gratis'?",
+        "Czy oferta '2+1 gratis' ma mieć jakieś ograniczenia, na przykład dotyczące dostępności produktów?"
+      ]
+    },
+    "Tester": {
+      "Opis": "Jako tester, muszę zrozumieć jakie są oczekiwania klienta dotyczące nowej sekcji 'hero' na stronie sklepu internetowego, promującej ofertę '2+1 gratis'.",
+      "Pytania": [
+        "Czy klient oczekuje, że sekcja 'hero' będzie poprawnie wyświetlana na różnych przeglądarkach?",
+        "Czy sekcja 'hero' powinna być przetestowana pod kątem responsywności na różnych urządzeniach mobilnych?",
+        "Czy istnieją jakieś specjalne przypadki testowe, które powinny zostać uwzględnione w teście sekcji 'hero'?"
+      ]
+    }
+  }

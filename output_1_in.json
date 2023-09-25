@@ -1,0 +1,41 @@
+{
+    "Klient": {
+      "Opis": "Chciałbym mieć nową sekcję hero, w której są bundle 2+ 1 gratis.",
+      "Pytania do doprecyzowania": [
+        "Czy sekcja hero ma być umieszczona na stronie głównej?",
+        "Czy chodzi o jakieś konkretne produkty, które mają być w bundle 2+ 1 gratis?",
+        "Czy jest jakiś konkretny wygląd, jaki powinna mieć sekcja hero?"
+      ]
+    },
+    "Zespół techniczny": {
+      "PM": {
+        "Opis": "Klient chce mieć nową sekcję hero na stronie głównej, która będzie promować bundle 2+ 1 gratis.",
+        "Dodatkowe pytania do klienta": [
+          "Czy ma być możliwość kliknięcia na bundle, aby dodać go do koszyka?",
+          "Czy sekcja ma zawierać tylko tekst i obrazek, czy również inne elementy, takie jak przycisk?",
+          "Czy sekcja ma być statyczna, czy dynamicznie generowana na podstawie dostępności produktów?"
+        ]
+      },
+      "Designer": {
+        "Opis": "Klient chce mieć nową sekcję hero na stronie głównej, która będzie promować bundle 2+ 1 gratis.",
+        "Dodatkowe pytania do klienta": [
+          "Czy jest jakiś konkretny wygląd, jaki powinna mieć ta sekcja? Czy możemy przedstawić jakieś propozycje?"
+        ]
+      },
+      "Programista": {
+        "Opis": "Klient chce mieć nową sekcję hero na stronie głównej, która będzie promować bundle 2+ 1 gratis.",
+        "Dodatkowe pytania do klienta": [
+          "Czy mamy dostęp do danych o produktach, które mają być promowane w bundlu?",
+          "Czy mamy dostęp do API, aby dodać produkty do koszyka po kliknięciu na bundle?",
+          "Czy jest jakaś preferowana technologia, w której mamy zaimplementować tę sekcję?"
+        ]
+      },
+      "Tester": {
+        "Opis": "Klient chce mieć nową sekcję hero na stronie głównej, która będzie promować bundle 2+ 1 gratis.",
+        "Dodatkowe pytania do klienta": [
+          "Czy są jakieś szczególne przypadki testowe, na które powinniśmy zwrócić uwagę?"
+        ]
+      }
+    }
+  }
+  

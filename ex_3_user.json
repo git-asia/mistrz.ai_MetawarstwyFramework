@@ -1,0 +1,9 @@
+{ 
+    "fromMemberOf$DEV_TEAMPerspective": { 
+        "detailedTaskDescription": "string", 
+        "questionsToAskMerchantToClarifyIdea": [], 
+        "stepsInTheImplementationOfTheTask": [], 
+        "taskBiggestProblems": [], 
+        "acceptanceCriteriaForTheTask": []
+    } 
+}

@@ -1,0 +1,77 @@
+{
+    "fromPMOfDEV_TEAMPerspective": {
+      "detailedTaskDescription": "Należy zaimplementować funkcjonalność, która pozwoli klientowi otrzymać 20% rabatu, gdy wartość koszyka przekroczy 200 zł. Dodatkowo, należy dodać pasek postępu, który informuje klienta o tym, ile jeszcze brakuje do uzyskania rabatu.",
+      "questionsToAskMerchantToClarifyIdea": [
+        "Czy rabat ma być obliczany na podstawie całkowitej wartości koszyka przed zastosowaniem innych ewentualnych rabatów czy po ich zastosowaniu?",
+        "Jak ma być wyświetlana informacja o pasku postępu? Czy ma być widoczna na każdej stronie czy tylko na stronie koszyka?",
+        "Czy rabat ma być aplikowany automatycznie czy klient musi wprowadzić kod rabatowy?"
+      ],
+      "stepsInTheImplementationOfTheTask": [
+        "Sprawdź, czy wartość koszyka przekracza 200 zł.",
+        "Jeśli tak, oblicz 20% rabatu na podstawie całkowitej wartości koszyka.",
+        "Dodaj informację o pasku postępu, na którym klient będzie mógł śledzić postęp w zbieraniu do rabatu.",
+        "Wyświetl klientowi informację o rabacie oraz aktualną wartość koszyka.",
+        "Zastosuj rabat na wartość koszyka.",
+        "Aktualizuj wartość koszyka po zastosowaniu rabatu.",
+        "Jeśli klient zrezygnuje z części produktów i wartość koszyka spadnie poniżej 200 zł, usuń rabat.",
+        "Zaktualizuj informację o pasku postępu."
+      ],
+      "taskBiggestProblems": [
+        "Może być problem z synchronizacją paska postępu z aktualną wartością koszyka w przypadku, gdy klient zmienia zawartość koszyka na różnych stronach.",
+        "Może być trudność w zastosowaniu rabatu na wartość koszyka, jeśli istnieją już inne rabaty aktywne."
+      ],
+      "acceptanceCriteriaForTheTask": [
+        "Rabat 20% powinien być obliczany na wartość koszyka przed zastosowaniem innych rabatów.",
+        "Pasek postępu powinien być widoczny na stronie koszyka i aktualizować się wraz z wartością koszyka.",
+        "Informacja o rabacie oraz aktualna wartość koszyka powinny być wyświetlane klientowi.",
+        "Rabat powinien być automatycznie aplikowany na wartość koszyka.",
+        "Rabat powinien być usunięty, jeśli wartość koszyka spadnie poniżej 200 zł.",
+        "Pasek postępu powinien być zsynchronizowany z aktualną wartością koszyka."
+      ]
+    },
+    "fromDesignerOfDEV_TEAMPerspective": {
+      "detailedTaskDescription": "Należy zaprojektować pasek postępu, który będzie wyświetlał informację o postępie klienta w zbieraniu do rabatu 20%. Pasek powinien być czytelny i estetyczny, aby przyciągał uwagę klienta.",
+      "questionsToAskMerchantToClarifyIdea": [
+        "Jaki kolor ma mieć pasek postępu?",
+        "Czy jest preferowany konkretny styl paska postępu?",
+        "Ile miejsca ma być poświęcone na wyświetlanie wartości koszyka oraz informacji o rabacie?"
+      ],
+      "stepsInTheImplementationOfTheTask": [
+        "Zaprojektuj graficznie pasek postępu, uwzględniając preferencje klienta.",
+        "Utwórz animacje dla paska postępu, które będą reagować na zmiany wartości koszyka.",
+        "Dodaj miejsce na wyświetlanie wartości koszyka oraz informacji o rabacie na pasku postępu."
+      ],
+      "taskBiggestProblems": [
+        "Może być trudność w dostosowaniu animacji paska postępu do różnych rodzajów urządzeń i przeglądarek.",
+        "Może być konieczne zastosowanie specjalnych technik, aby pasek postępu był responsywny i wyglądał estetycznie na różnych rozdzielczościach ekranu."
+      ],
+      "acceptanceCriteriaForTheTask": [
+        "Pasek postępu powinien być czytelny i estetyczny.",
+        "Animacje paska postępu powinny płynnie reagować na zmiany wartości koszyka.",
+        "Wartość koszyka oraz informacja o rabacie powinny być czytelnie wyświetlane na pasku postępu."
+      ]
+    },
+    "fromProgrammerOfDEV_TEAMPerspective": {
+      "detailedTaskDescription": "Należy zaimplementować funkcjonalność, która będzie obliczać wartość rabatu oraz aktualizować wartość koszyka po zastosowaniu rabatu. Dodatkowo, należy zaimplementować pasek postępu i zsynchronizować go z wartością koszyka.",
+      "questionsToAskMerchantToClarifyIdea": [
+        "Czy dostępne są jakieś biblioteki lub narzędzia, które powinniśmy wykorzystać w implementacji paska postępu?",
+        "Czy preferowane są konkretne technologie do implementacji funkcjonalności obliczania rabatu i aktualizacji wartości koszyka?",
+        "Czy mamy dostęp do jakiegoś API, które pozwoli na zsynchronizowanie paska postępu z wartością koszyka?"
+      ],
+      "stepsInTheImplementationOfTheTask": [
+        "Zaimplementuj logikę obliczania wartości rabatu na podstawie wartości koszyka.",
+        "Dodaj obsługę aktualizacji wartości koszyka po zastosowaniu rabatu.",
+        "Zaimplementuj pasek postępu, który będzie wyświetlał informację o postępie klienta w zbieraniu do rabatu.",
+        "Zsynchronizuj pasek postępu z wartością koszyka."
+      ],
+      "taskBiggestProblems": [
+        "Może być trudność w dostosowaniu logiki obliczania rabatu do różnych przypadków, takich jak obecność innych rabatów czy zmiana zawartości koszyka w trakcie zakupów.",
+        "Może być konieczność użycia specjalnych technologii lub narzędzi, aby zsynchronizować pasek postępu z wartością koszyka."
+      ],
+      "acceptanceCriteriaForTheTask": [
+        "Wartość rabatu powinna być poprawnie obliczana na podstawie wartości koszyka.",
+        "Wartość koszyka powinna być poprawnie aktualizowana po zastosowaniu rabatu.",
+        "Pasek postępu powinien być poprawnie wyświetlany i zsynchronizowany z wartością koszyka."
+      ]
+    }
+  }

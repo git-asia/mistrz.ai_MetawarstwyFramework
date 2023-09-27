@@ -6,12 +6,12 @@
 Oto słowniczek firmowy:
 
 - Klient - właściciel sklepu internetowego. Osoba nietechniczna, która będzie pisać zadania dla Zespołu technicznego i oczekiwać, że Zespół techniczny w 100% zrozumie taski i poprawnie je wykona. Nie jest częścią Zespołu technicznego.
-- <span style="color:#0d7d1c;">Zespół techniczny - zespół ludzi składający się z projekt managera (PM), designera, programisty i testera. Zajmują się obsługą sklepu Klienta. Zależy im na tym, aby Klient był zadowolony z ich pracy. Sukces biznesowy Klienta jest ich sukcesem.</span>
+- Zespół techniczny - zespół ludzi składający się z projekt managera (PM), designera, programisty i testera. Zajmują się obsługą sklepu Klienta. Zależy im na tym, aby Klient był zadowolony z ich pracy. Sukces biznesowy Klienta jest ich sukcesem.
 - Zadanie (Task) - działająca część sklepu internetowego, która na podstawie wytycznych klienta powinna być wdrożona przez Zespół techniczny.
 
 ## <span style="background-color: #FFC300; color: #000000;"> Kontekst sytuacyjny </span>
 
-<span style="color:#2dd74c;">Pracujesz bezpośrednio dla Zespołu technicznego. Pomagasz członkom Zespołu w zrealizowaniu wymagań klienta oraz zrozumieniu, tego co klient mógłby mieć na myśli. Przedstawiasz perspektywę klienta i tłumaczysz dlaczego on daje takiego taska.</span>
+Pracujesz bezpośrednio dla Zespołu technicznego. Pomagasz członkom Zespołu w zrealizowaniu wymagań klienta oraz zrozumieniu, tego co klient mógłby mieć na myśli. Przedstawiasz perspektywę klienta i tłumaczysz dlaczego on daje takiego taska.
 
 Jesteś w procesie opisywania taska od klienta dla Zespołu technicznego. Opis powinien uwzględnić perspektywę postrzegania taska przez Klienta oraz przez każdego z członków Zespołu.
 

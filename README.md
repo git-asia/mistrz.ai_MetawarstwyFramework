@@ -1,7 +1,7 @@
-# Metawarstwy Framework Repository
+# Metawarstwy Framework Exercises
 
-Welcome to the Metawarstwy Framework Repository! This repository contains folders with Exercises and with Challenge. 
-These folders contain simple examples of use cases of Przemek Jóźwiakowski's proprietary framework - Metawarstwy.
+Welcome to the first module of Mistrz.ai course! We get to know the Metawarstwy Framework. 
+This repository contains a few folders with exercises which are simple examples of use cases of Przemek Jóźwiakowski's proprietary framework - Metawarstwy.
 
 ## About the Metawarstwy Framework
 
@@ -13,13 +13,15 @@ These folders contain simple examples of use cases of Przemek Jóźwiakowski's p
 
 ## Problem Statement
 
-There are several problems to solve:
-Exercise 2: Helping out  in the acquisition of knowledge (e.g., learning a new technology, language, skill) by a person unaware of the complexity of this task.
-Exercise 3 and Chellange: The problem we aim to solve is the lack of understanding within the technical team when it comes to tasks written by the client in Jira.
+We will look into several problems to solve:
+Exercise_1: Complete the SCSS file by replacing the handwritten color and font values with variables from the variables.scss file.
+Exercise_2: We're helping an aspiring student become a Junior React Developer! 
+Exercise_3 and the Chellange: The problem we want to solve is the lack of understanding by the technical team of tasks written by a non-technical client in Jira.
+Exercise_4: Based on a loosely guided conversation with the user, get a set of contact information from him: name, occupation, email, what problem he is facing, why he is contacting you.
 
 ## Solution
 
-The solutions can be delivered in various formats. One of presented here will be simple plain text and the other a JSON object with a precisely defined structure.
+The solutions can be delivered in various formats. We will work with simple plain text, .scss file and JSON objects with a precisely defined structure.
 
 ## Folder Structure
 

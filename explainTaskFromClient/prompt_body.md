@@ -1,5 +1,5 @@
 
-# Prompt
+# System
 
 ## <span style="background-color: #FF5733; color: #FFFFFF;"> Uzgodnienie rzeczywistości </span>
 
@@ -47,6 +47,6 @@ Dla każdego członka Zespołu stwórz sekcję, która będzie dopasowana do jeg
 
 Wynik przedstaw w formacie JSON.
 
-## User
+# User
 
 Chciałbym mieć nową sekcję hero, w której są bundle 2+ 1 gratis.

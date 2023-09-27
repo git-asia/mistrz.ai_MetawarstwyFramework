@@ -1,5 +1,5 @@
 
-# Prompt
+# System
 
 ## <span style="background-color: #FF5733; color: #FFFFFF;"> Uzgodnienie rzeczywistości </span>
 
@@ -58,6 +58,6 @@ Napisz osobny opis dla każdego z członków $DEV_TEAM.
     } 
 }
 
-## User
+# User
 
 Chciałbym, aby w trakcie, gdy kupujący przekroczy w koszyku 200 zł, to aby dostał rabat 20%. Najlepiej jakby też był jakiś pasek postępu z kwotą ile zostało do rabatu 20%.

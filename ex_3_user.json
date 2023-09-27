@@ -1,5 +1,5 @@
 { 
-    "fromMemberOf$DEV_TEAMPerspective": { 
+    "$DEV_TEAMmember": { 
         "detailedTaskDescription": "string", 
         "questionsToAskMerchantToClarifyIdea": [], 
         "stepsInTheImplementationOfTheTask": [], 

@@ -1,6 +1,7 @@
 # Metawarstwy Framework Repository
 
-Welcome to the Metawarstwy Framework Repository! This repository contains two folders: `Exercise_3` and `explainTaskFromClient`. These folders contain two tasks that are closely related to creating the best prompts using Przemek Jóźwiakowski's proprietary framework - Metawarstwy.
+Welcome to the Metawarstwy Framework Repository! This repository contains folders with Exercises and with Challenge. 
+These folders contain simple examples of use cases of Przemek Jóźwiakowski's proprietary framework - Metawarstwy.
 
 ## About the Metawarstwy Framework
 
@@ -12,19 +13,17 @@ Welcome to the Metawarstwy Framework Repository! This repository contains two fo
 
 ## Problem Statement
 
-The problem we aim to solve is the lack of understanding within the technical team when it comes to tasks written by the client in Jira.
+There are several problems to solve:
+Exercise 2: Helping out  in the acquisition of knowledge (e.g., learning a new technology, language, skill) by a person unaware of the complexity of this task.
+Exercise 3 and Chellange: The problem we aim to solve is the lack of understanding within the technical team when it comes to tasks written by the client in Jira.
 
 ## Solution
 
-Our solution is delivered in the form of a JSON object with a precisely defined structure.
+The solutions can be delivered in various formats. One of presented here will be simple plain text and the other a JSON object with a precisely defined structure.
 
 ## Folder Structure
 
-- `Exercise_3`: This folder contains the task related to describing the client's task.
-- `explainTaskFromClient`: This folder contains the task related to explaining the client's task and writing it in more technical manner.
-
-The folders also include sample model responses.
-
+Folders contains files with excercise description, prompt body and sample answers by gpt.
 
 ## Usage
 
@@ -43,4 +42,4 @@ To use the Metawarstwy Framework and solve the problem, follow these steps:
 
 Feel free to adjust the parameters and prompts as needed for your specific use case. Happy experimenting with the framework!
 
-
+**Pro Tip:** If you're using Visual Studio Code, you can use the "Open Preview" option to view styled Markdown files. The 'prompl_body.md' in 'Challenge...' directory is nicely coloured 😁

@@ -1,0 +1,62 @@
+// output from gpt 3.5
+
+@import '_variables.scss';
+
+body {
+  font-family: $base-font-family, sans-serif;
+  font-size: $base-font-size;
+  color: $text-color;
+  background-color: $white;
+}
+
+.header {
+  background-color: $primary-color;
+  color: $white;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    li {
+      display: inline;
+      margin-right: 20px;
+      a {
+        text-decoration: none;
+        color: $secondary-color;
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
+  }
+}
+
+.section {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid $section-border-color;
+  box-shadow: 2px 2px 5px $section-box-shadow-color;
+  h2 {
+    font-size: $heading-font-size;
+    color: $text-color;
+  }
+  p {
+    font-size: $base-font-size;
+    color: $subtext-color;
+  }
+}
+
+.button {
+  background-color: $primary-color;
+  color: $white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  &:hover {
+    background-color: $link-hover-color;
+  }
+}

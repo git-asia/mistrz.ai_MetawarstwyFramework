@@ -14,14 +14,14 @@ This repository contains a few folders with exercises which are simple examples 
 ## Problem Statement
 
 We will look into several problems to solve:
-Exercise_1: Complete the SCSS file by replacing the handwritten color and font values with variables from the variables.scss file.
-Exercise_2: We're helping an aspiring student become a Junior React Developer! 
-Exercise_3 and the Chellange: The problem we want to solve is the lack of understanding by the technical team of tasks written by a non-technical client in Jira.
-Exercise_4: Based on a loosely guided conversation with the user, get a set of contact information from him: name, occupation, email, what problem he is facing, why he is contacting you.
+- Exercise_1: Complete the SCSS file by replacing the handwritten color and font values with variables from the variables.scss file.
+- Exercise_2: We're helping an aspiring student become a Junior React Developer! 
+- Exercise_3 and the Chellange: The problem we want to solve is the lack of understanding by the technical team of tasks written by a non-technical client in Jira.
+- Exercise_4: Based on a loosely guided conversation with client, get a set of contact information including: name, occupation, email, what problem (s)he is facing, why (s)he is contacting you.
 
 ## Solution
 
-The solutions can be delivered in various formats. We will work with simple plain text, .scss file and JSON objects with a precisely defined structure.
+The solutions can be delivered in various formats. We will work with both: simple .scss file and plain text as well as with JSON objects with a precisely defined structure.
 
 ## Folder Structure
 

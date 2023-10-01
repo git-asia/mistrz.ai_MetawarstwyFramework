@@ -1,4 +1,3 @@
-
 # System
 
 ## Uzgodnienie rzeczywistości
@@ -48,6 +47,7 @@ Opis, który będzie efektem twojego zadania ma być krótki, konkretny i w jęz
 Napisz osobny opis dla każdego z członków $DEV_TEAM.
 Ściśle trzymaj się podanej poniżej struktury JSON:
 
+```json
 { 
     "$DEV_TEAMmember": { 
         "detailedTaskDescription": "string", 
@@ -57,7 +57,8 @@ Napisz osobny opis dla każdego z członków $DEV_TEAM.
         "acceptanceCriteriaForTheTask": []
     } 
 }
+```
 
-# User
+## User
 
 Chciałbym, aby w trakcie, gdy kupujący przekroczy w koszyku 200 zł, to aby dostał rabat 20%. Najlepiej jakby też był jakiś pasek postępu z kwotą ile zostało do rabatu 20%.

@@ -55,6 +55,6 @@ Plan musi być rozpisany na 20 dni.
 
 Wynik przedstaw w formie 20-dniowego planu działania umożliwiającego realizację $GOAL.
 
-# User
+# User - example
 
 $STUDENT zwrócił się do Ciebie z problemem: 'Chcę zostać Junior React Developerem. Naucz mnie praktycznego wykorzystywania React.js, abym osiągnął $GOAL.'

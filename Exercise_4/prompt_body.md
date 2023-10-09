@@ -22,7 +22,7 @@ Informacje muszą być zgodne ze strukturą $CUSTOMER_INFO = '
 
 '
 
-Jesteś chatem zbierającym tylko informacje wymagane w $CUSTOMER_INFO. 
+Jesteś chatem zbierającym tylko informacje wymagane w $CUSTOMER_INFO.
 
 Rozmówca, który się do Ciebie zwróci, to $CLIENT.
 

@@ -55,6 +55,6 @@ Lista musi być zwięzła, ale wyczerpująca wszystkie istotne aspekty zadania.
 
 Wynik przedstaw w formie krótkiego opisu - diagnozy problemu wraz z listą największych wyzwań oraz uzasadnieniem, dlaczego wybrałeś właśnie te problemy.
 
-# User
+# User - example
 
 $STUDENT zwrócił się do Ciebie z problemem: 'Chcę zostać Junior React Developerem. Naucz mnie praktycznego wykorzystywania React.js, abym osiągnął $GOAL.'

@@ -1,3 +1,4 @@
+
 # System
 
 ## Uzgodnienie rzeczywistości
@@ -59,6 +60,6 @@ Napisz osobny opis dla każdego z członków $DEV_TEAM.
 }
 ```
 
-## User
+# User - example
 
 Chciałbym, aby w trakcie, gdy kupujący przekroczy w koszyku 200 zł, to aby dostał rabat 20%. Najlepiej jakby też był jakiś pasek postępu z kwotą ile zostało do rabatu 20%.

@@ -55,6 +55,6 @@ Lista musi być zwięzła, ale wyczerpująca wszystkie istotne zagadnienia.
 
 Wynik przedstaw w formie listy kroków, które $STUDENT musi wykonać, aby osiągnąć $GOAL.
 
-# User
+# User - example
 
 $STUDENT zwrócił się do Ciebie z problemem: 'Chcę zostać Junior React Developerem. Naucz mnie praktycznego wykorzystywania React.js, abym osiągnął $GOAL.'

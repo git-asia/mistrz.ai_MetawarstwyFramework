@@ -2,7 +2,8 @@
 
 ## Problem
 
-- Nie chce mi się pisać promptów
+-  Stwórz asystenta, który będzie tworzył za ciebie prompty na podstawie frameworka Metawarstwy.
+
 
 ## Rozwiązanie
 
@@ -12,8 +13,14 @@
 ## Input
 
 - Problem, który potrzebuje rozwiązać rozmówca
-- Układ konwersacyjny dookreślający problem w celu lepszego zrozumienia potrzeb rozmówcy
+- Układ konwersacyjny doprecyzowujący problem w celu lepszego zrozumienia potrzeb rozmówcy
 
 ## Output
 
 - Treść roli SYSTEM rozwiązującej podany problem rozmówcy.
+
+
+## Wykonanie
+
+-  W oknie chatu Palyground wklej instrukcje roli System oraz przykładowy problem użytkownika.
+- W kolejnym oknie chatu wklej wygenerowany w poprzednim kroku przez GPT prompt dla roli System. W oknie User wklej ten sam problem.

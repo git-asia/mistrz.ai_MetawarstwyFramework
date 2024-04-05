@@ -6,13 +6,13 @@
 
 ## Rozwiązanie
 
-- AI na podstawie frameworka Metawarstwy oraz układu konwersacyjnego stwórz gotowego prompta pod problem rozmówcy
-- Ostatnią wiadomością AI ma być prompt roli SYSTEM, wg frameworka Metawarstwy
+-  Na podstawie frameworka Metawarstwy oraz układu konwersacyjnego stwórz gotowy prompt dostosowany do problemu rozmówcy
+- Ostatnią wiadomością AI ma być prompt roli SYSTEM, wg frameworku Metawarstwy
 
 ## Input
 
 - Problem, który potrzebuje rozwiązać rozmówca
-- Kilku-pytaniowy układ konwersacyjny pogłębiający problem w celu zrozumienia potrzeb pod rozwiązanie
+- Układ konwersacyjny dookreślający problem w celu lepszego zrozumienia potrzeb rozmówcy
 
 ## Output
 
